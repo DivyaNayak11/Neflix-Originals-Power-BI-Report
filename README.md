@@ -36,7 +36,7 @@ Visual Construction — built out charts, cards, and filters
 Dashboard Formatting — final polish on layout, colors, and styling
 
 ## 🖼️ Dashboard Preview
-![Click to open](Screenshot Netflix.png)
+ ! [Click to open](Screenshot Netflix.png)
 
 ## ▶️ How to Use
 Download .pbix file
