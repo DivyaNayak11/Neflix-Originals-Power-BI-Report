@@ -1,4 +1,4 @@
-#Netflix Originals Dashboard — Power BI Project
+Netflix Originals Dashboard — Power BI Project
 
 A Power BI dashboard built as a hands-on learning project, analyzing a dataset of Netflix Original movies. The project walks through the full workflow — data cleaning, modeling, DAX measures, and visual design — to explore trends across genre, ratings, and runtime.
 
